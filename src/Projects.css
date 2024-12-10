@@ -1,0 +1,39 @@
+.stardle-container {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    background-color: #fed18c;
+    padding: 0px;
+    margin: 0px 0px;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.stardle-title {
+    font-size: 65px;
+    margin: 0px;
+}
+
+.stardle-description {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 50%;
+    gap: 20px;
+}
+
+.stardle-text {
+    width: 40%;
+}
+
+.stardle-title-box {
+    background-color: #fe654f;
+    margin: 0px;
+    margin-bottom: 10px;
+    border-bottom: 3px solid black;
+    width: 100%;
+    text-align: center;
+    padding: 10px 10px
+}
